@@ -56,4 +56,4 @@ Researchers: Academics studying the factors influencing happiness and quality of
 
 # Final Report
 
-[Final Instacart Report](https://public.tableau.com/shared/QNRS6N7NC?:display_count=n&:origin=viz_share_link)
+[Final World Happiness Report](https://public.tableau.com/shared/QNRS6N7NC?:display_count=n&:origin=viz_share_link)
