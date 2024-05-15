@@ -20,10 +20,9 @@ The World Happiness Report, compiled by the Sustainable Development Solutions Ne
 - How does government trust correlate with national happiness scores?
 
 # World Happiness Report Data Sets
-World Happiness Report: Contains happiness scores and rankings of countries.
+[World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness): Contains happiness scores and rankings of countries.
 
 GDP per Capita: Economic output per person.
-
 Social Support: Measures the quality of social networks.
 
 Life Expectancy: Average lifespan of individuals in a country.
