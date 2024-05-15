@@ -7,17 +7,17 @@ As a student of data analytics, I employed Python and Tableau to uncover trends 
 The World Happiness Report, compiled by the Sustainable Development Solutions Network (SDSN), assesses and ranks the happiness of countries worldwide using data from the Gallup World Poll. The goal is to provide valuable insights into the factors that contribute to national happiness, helping policymakers and organizations improve the quality of life.
 
 # Key Questions
--What is the relationship between GDP per capita and happiness scores?
+- What is the relationship between GDP per capita and happiness scores?
 
--How does social support influence happiness scores in different countries?
+- How does social support influence happiness scores in different countries?
 
--What is the correlation between life expectancy and happiness scores?
+- What is the correlation between life expectancy and happiness scores?
 
--How does freedom impact happiness scores?
+- How does freedom impact happiness scores?
 
--What is the relationship between generosity and happiness scores?
+- What is the relationship between generosity and happiness scores?
 
--How does government trust correlate with national happiness scores?
+- How does government trust correlate with national happiness scores?
 
 # World Happiness Report Data Sets
 World Happiness Report: Contains happiness scores and rankings of countries.
