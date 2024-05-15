@@ -21,24 +21,36 @@ The World Happiness Report, compiled by the Sustainable Development Solutions Ne
 
 # World Happiness Report Data Sets
 World Happiness Report: Contains happiness scores and rankings of countries.
+
 GDP per Capita: Economic output per person.
+
 Social Support: Measures the quality of social networks.
+
 Life Expectancy: Average lifespan of individuals in a country.
+
 Freedom: Degree of personal and political freedoms.
+
 Generosity: Levels of charitable behavior.
+
 Government Trust: Public trust in national institutions.
 
 # Stakeholders
 Policymakers: Government officials who can implement strategies to improve national happiness.
+
 Global Organizations: Institutions like the United Nations and World Bank interested in global well-being.
+
 Researchers: Academics studying the factors influencing happiness and quality of life.
 
 # Folders
 01 Project Management: Project brief and management documents.
+
 02 Data: Divided into two subfolders - Original and Prepared Data
+
 03 Scripts: Jupyter notebooks housing the code utilized for analysis.
+
 04 Analysis: Segmented into two subfolders - Reports and Visualizations.
-05 Sent to Client: The finalized report presented in PDF format.
+
+05 Sent to Client: The finalized report presented Tableau.
 
 
 
