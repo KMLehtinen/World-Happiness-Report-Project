@@ -8,10 +8,15 @@ The World Happiness Report, compiled by the Sustainable Development Solutions Ne
 
 # Key Questions
 -What is the relationship between GDP per capita and happiness scores?
+
 -How does social support influence happiness scores in different countries?
+
 -What is the correlation between life expectancy and happiness scores?
+
 -How does freedom impact happiness scores?
+
 -What is the relationship between generosity and happiness scores?
+
 -How does government trust correlate with national happiness scores?
 
 # World Happiness Report Data Sets
